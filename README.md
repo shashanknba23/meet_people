@@ -22,5 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-# meet_pepople
-# meet_pepople
+# meet_people
+# meet_people
